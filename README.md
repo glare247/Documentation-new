@@ -28,6 +28,8 @@ this is a checkbox
   - content 3
 
 
+s3 bucket
+![my s3 bucket](https://github.com/glare247/Documentation-new/blob/main/s3%20bucket%20kabir.png)
 
 
 
